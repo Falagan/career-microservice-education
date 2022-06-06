@@ -1,0 +1,23 @@
+{
+  "name": "career-microservice-education",
+  "version": "1.0.0",
+  "description": "Back-end developed with nodejs as a microservice ro provide educational information to career app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Falagan/career-microservice-education.git"
+  },
+  "keywords": [
+    "nodejs",
+    "career"
+  ],
+  "author": "Eloy Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Falagan/career-microservice-education/issues"
+  },
+  "homepage": "https://github.com/Falagan/career-microservice-education#readme"
+}
